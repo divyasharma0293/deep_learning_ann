@@ -1,1 +1,1 @@
-# deep_learning_ann
+Using Artificial Neural Network to predict any new customer will stay in the bank or not depending on their information. we will train our data using dataset of a bank which collected some informtaion(credit score, geography, gender, estimated salary,etc.) about their customers to predict if the customer stayed in the bank or left the bank. stayed in bank = 0, left the bank = 1.
